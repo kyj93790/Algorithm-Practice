@@ -10,6 +10,8 @@ int main(void) {
     while (t--) {
         int n, k;
         cin >> n >> k;
+        string s;
+        cin >> s;
     }
     return 0;
 }
